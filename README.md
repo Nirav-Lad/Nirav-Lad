@@ -13,7 +13,8 @@ I'm a final-year Computer Science student . I’ve worked on full-stack apps usi
 ## 📬 Connect with me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nirav-lad-1b0051288/)  
-- ✉️ Email: nirav20267@gmail.com 
+- 🌐 [Portfolio Website](https://portfolio-nirav-lads-projects.vercel.app/)
+- ✉️ Email: nirav20267@gmail.com  
 
 ---
 Thanks for stopping by!
